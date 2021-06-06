@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63d6d3f5-d129-48c7-a2dd-e94b4ebcde50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/insta_bot/instagram_bot/chromedriver/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insta_bot/instagram_bot/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/insta_bot/instagram_bot/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insta_bot/instagram_bot/lesson_1/lesson_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/insta_bot/instagram_bot/lesson_1/lesson_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insta_bot/instagram_bot/lesson_2/lesson2.py" beforeDir="false" afterPath="$PROJECT_DIR$/insta_bot/instagram_bot/lesson_2/lesson2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram_bot/instagram-bot-py/instagram-bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/instagram_bot/instagram-bot-py/instagram-bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram_bot/instagram-bot-py/myvenv/lib/python3.6/site-packages/selenium/webdriver/chrome/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram_bot/instagram-bot-py/myvenv/lib/python3.6/site-packages/selenium/webdriver/chrome/options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram_bot/instagram-bot-py/myvenv/lib/python3.6/site-packages/selenium/webdriver/chrome/remote_connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram_bot/instagram-bot-py/myvenv/lib/python3.6/site-packages/selenium/webdriver/chrome/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram_bot/instagram-bot-py/myvenv/lib/python3.6/site-packages/selenium/webdriver/chrome/webdriver.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/insta_bot/instagram_bot" />
+  </component>
+  <component name="ProjectId" id="1qZQJaDM7BVQi0xGlYkBSGmb94B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63d6d3f5-d129-48c7-a2dd-e94b4ebcde50" name="Default Changelist" comment="" />
+      <created>1617284560955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617284560955</updated>
+      <workItem from="1617284562079" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>
